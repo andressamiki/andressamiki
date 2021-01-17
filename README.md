@@ -1,4 +1,4 @@
-<h2> Hi, I'm Andressa Miki! <img src="https://media.giphy.com/media/cC8Wl0EzP1rUXjMmOV/giphy.gif" width="30"></h2>
+<h2> Hi, I'm Andressa Miki! <img src="https://media.giphy.com/media/pOJPEIPYX4d88wePla/giphy.gif" width="30"></h2>
 <img align='right' src="https://media.giphy.com/media/1AgEb76e6YrmMl8Nnm/giphy.gif" width="210">
 
 <p>I started working as a backend developer and then migrated to the frontend. At the moment, I'm a frontend developer at Sim;paul. I'm working mostly with Angular and TypeScript. I love Open-Source and I'm a developer since 2016. I have a passion for JavaScript :blue_heart: and its entire ecosystem.
